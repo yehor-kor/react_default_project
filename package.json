@@ -1,5 +1,6 @@
 {
   "name": "react_default_project",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -41,11 +42,8 @@
     ]
   },
   "devDependencies": {
-<<<<<<< HEAD
-=======
     "@types/react": "^18.2.48",
     "@types/react-dom": "^18.2.18",
->>>>>>> master
     "gh-pages": "^6.1.1"
   }
 }
